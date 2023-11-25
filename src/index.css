@@ -1,0 +1,14 @@
+/* .root{
+  background-color: rgb(127,255,212);
+} */
+body{
+  background-color: rgb(127,255,212);
+}
+input{
+  font-size: 20px;
+  height: 20px;
+  width: 200px;
+}
+button{
+  height: 20px;
+}
